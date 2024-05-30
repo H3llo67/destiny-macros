@@ -6,7 +6,7 @@ ListLines Off
 SendMode Input
 
 Alt & `::
-SetTimer, start_click_loop_2000, off
+SetTimer, start_click_loop_2300, off
 SetTimer, start_click_loop_rapid, off
 SetTimer, start_dismantle_loop, off
 SetTimer, start_dismantle_loop2, off
